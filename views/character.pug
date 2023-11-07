@@ -1,0 +1,12 @@
+extends layout
+
+block content
+    h1= title
+
+
+    each character in characters
+        div
+            h2= character.name
+
+            p= character.image
+
