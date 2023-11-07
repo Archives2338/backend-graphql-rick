@@ -30,7 +30,7 @@ npm start
 Navigate to `http://localhost:8080`
 
 - Se utilizo express y nodejs para el backend y react para el frontend
-- Este pequeño proyecto consulta la api de graphql de rick and morty donde consulta y filtra los personajes principales enviandolo en formato JSON al backend de la aplicacion de rick and morty 
-- Se utilizo typescript para el backend y javascript para el frontend.
+- Este pequeño proyecto consulta la api de graphql de rick and morty donde consulta y filtra los personajes principales enviandolo en formato JSON al frontend(nextjs) de la aplicacion de rick and morty 
+- Se utilizo typescript para el backend y  para el frontend.
 - Utilizamos el modelo de arquitectura MVC para el backend y el modelo de arquitectura de componentes para el frontend.
 ---
