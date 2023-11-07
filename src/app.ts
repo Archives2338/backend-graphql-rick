@@ -15,7 +15,7 @@ const corsOptions: CorsOptions = {
 };
 app.use(cors(corsOptions));
 // Express configuration
-app.set("port", process.env.PORT || 3000);
+app.set("port", process.env.PORT || 8080);
 
 
 app.use(logger("dev"));
